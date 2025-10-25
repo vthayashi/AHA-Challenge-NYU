@@ -1,5 +1,7 @@
 # AHA-Challenge-NYU
-AI Hardware Attack Challenge from NYU CSAW 2025
+AI Hardware Attack Challenge from NYU CSAW 2025:
+* Create a denial of service Trojan that completely halts the AES core after 862 encryptions have been performed: https://github.com/JBlocklove/CSAW-AI-Hardware-Attack-Challenge/tree/main/challenges/challenge_1/01_easy
+* After the UART receives the byte 0xaf three times, it should then always write the byte to the data register in reverse: https://github.com/JBlocklove/CSAW-AI-Hardware-Attack-Challenge/tree/main/challenges/challenge_2/01_easy
 
 ## Contents of this Repository
 
